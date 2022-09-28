@@ -1,0 +1,16 @@
+c:\users\santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.exe.config
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.exe
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.pdb
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.xml
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.vbprojResolveAssemblyReference.cache
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Form1.resources
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Form2.resources
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Resources.resources
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.vbproj.GenerateResource.Cache
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.exe
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.xml
+C:\Users\Santi\documents\visual studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.pdb
+D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.exe.config
+D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.exe
+D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.xml
+D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.pdb
