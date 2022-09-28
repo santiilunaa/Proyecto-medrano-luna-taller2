@@ -14,3 +14,7 @@ D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano
 D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.exe
 D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.xml
 D:\Documentos\Visual Studio 2015\Projects\Prpyecto-Medrano-Luna\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.pdb
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.exe.config
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.exe
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.xml
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.pdb
