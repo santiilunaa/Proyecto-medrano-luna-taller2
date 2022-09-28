@@ -32,9 +32,9 @@ Partial Class Form2
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Panel3 = New System.Windows.Forms.Panel()
+        Me.Panel6 = New System.Windows.Forms.Panel()
         Me.Panel4 = New System.Windows.Forms.Panel()
         Me.Panel5 = New System.Windows.Forms.Panel()
-        Me.Panel6 = New System.Windows.Forms.Panel()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -170,6 +170,14 @@ Partial Class Form2
         Me.Panel3.Size = New System.Drawing.Size(764, 401)
         Me.Panel3.TabIndex = 2
         '
+        'Panel6
+        '
+        Me.Panel6.BackColor = System.Drawing.SystemColors.ButtonShadow
+        Me.Panel6.Location = New System.Drawing.Point(125, 70)
+        Me.Panel6.Name = "Panel6"
+        Me.Panel6.Size = New System.Drawing.Size(200, 100)
+        Me.Panel6.TabIndex = 4
+        '
         'Panel4
         '
         Me.Panel4.BackColor = System.Drawing.SystemColors.ButtonShadow
@@ -185,14 +193,6 @@ Partial Class Form2
         Me.Panel5.Name = "Panel5"
         Me.Panel5.Size = New System.Drawing.Size(200, 100)
         Me.Panel5.TabIndex = 5
-        '
-        'Panel6
-        '
-        Me.Panel6.BackColor = System.Drawing.SystemColors.ButtonShadow
-        Me.Panel6.Location = New System.Drawing.Point(158, 126)
-        Me.Panel6.Name = "Panel6"
-        Me.Panel6.Size = New System.Drawing.Size(200, 100)
-        Me.Panel6.TabIndex = 4
         '
         'Form2
         '
