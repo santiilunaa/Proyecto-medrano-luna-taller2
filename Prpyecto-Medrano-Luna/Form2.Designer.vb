@@ -164,6 +164,7 @@ Partial Class Form2
         '
         Me.Panel3.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Panel3.Controls.Add(Me.Panel6)
+        Me.Panel3.Controls.Add(Me.Panel4)
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel3.Location = New System.Drawing.Point(172, 38)
         Me.Panel3.Name = "Panel3"
@@ -181,7 +182,7 @@ Partial Class Form2
         'Panel4
         '
         Me.Panel4.BackColor = System.Drawing.SystemColors.ButtonShadow
-        Me.Panel4.Location = New System.Drawing.Point(607, 70)
+        Me.Panel4.Location = New System.Drawing.Point(194, 14)
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(200, 100)
         Me.Panel4.TabIndex = 3
@@ -200,7 +201,6 @@ Partial Class Form2
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(936, 439)
         Me.Controls.Add(Me.Panel5)
-        Me.Controls.Add(Me.Panel4)
         Me.Controls.Add(Me.Panel3)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.Panel1)
