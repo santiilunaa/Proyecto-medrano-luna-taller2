@@ -172,8 +172,8 @@ Partial Class Form2
         '
         'Panel6
         '
-        Me.Panel6.BackColor = System.Drawing.SystemColors.ButtonShadow
-        Me.Panel6.Location = New System.Drawing.Point(125, 70)
+        Me.Panel6.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.Panel6.Location = New System.Drawing.Point(194, 140)
         Me.Panel6.Name = "Panel6"
         Me.Panel6.Size = New System.Drawing.Size(200, 100)
         Me.Panel6.TabIndex = 4
