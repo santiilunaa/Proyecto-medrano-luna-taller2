@@ -151,7 +151,7 @@ Partial Class FormPrinc
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button8.ForeColor = System.Drawing.SystemColors.ButtonHighlight
-        Me.Button8.Location = New System.Drawing.Point(9, 459)
+        Me.Button8.Location = New System.Drawing.Point(9, 439)
         Me.Button8.Margin = New System.Windows.Forms.Padding(0)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(109, 63)
