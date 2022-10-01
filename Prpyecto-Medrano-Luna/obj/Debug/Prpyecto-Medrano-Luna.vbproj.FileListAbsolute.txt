@@ -18,3 +18,11 @@ D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto
 D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.exe
 D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.xml
 D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.pdb
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.exe
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.pdb
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\bin\Debug\Prpyecto-Medrano-Luna.xml
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.vbprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Form1.resources
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Form2.resources
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto_Medrano_Luna.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\Proyecto-medrano-luna-taller2\Prpyecto-Medrano-Luna\obj\Debug\Prpyecto-Medrano-Luna.vbproj.GenerateResource.Cache
